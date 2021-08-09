@@ -3,92 +3,11 @@ Java Version: Java 16
 Current Path: D:\Github\Spigot-BT\.
 *** Using downloaded git PortableGit-2.30.0-64-bit\PortableGit ***
 *** Please note that this is a beta feature, so if it does not work please also try a manual install of git from https://git-for-windows.github.io/ ***
-git version 2.32.0.windows.2
+git version 2.30.0.windows.1
 RG2N
 64289295+RG2N@users.noreply.github.com
-Starting clone of https://hub.spigotmc.org/stash/scm/spigot/bukkit.git to Bukkit
-Cloned git repository https://hub.spigotmc.org/stash/scm/spigot/bukkit.git to D:\Github\Spigot-BT\Bukkit. Current HEAD: e0598aa29ef8f0622378d929c0ed0542e698db60
-Starting clone of https://hub.spigotmc.org/stash/scm/spigot/spigot.git to Spigot
-Cloned git repository https://hub.spigotmc.org/stash/scm/spigot/spigot.git to D:\Github\Spigot-BT\Spigot. Current HEAD: ff89b973e62ca3b6085aeeb474f2568e45ac02be
-Maven does not exist, downloading. Please wait.
-Starting download of https://static.spigotmc.org/maven/apache-maven-3.6.0-bin.zip
-Downloaded file: apache-maven-3.6.0-bin.zip with hash: 7d14ab2b713880538974aa361b987231473fbbed20e83586d542c691ace1139026f232bd46fdcce5e8887f528ab1c3fbfc1b2adec90518b6941235952d3868e9
-Extracted: .\apache-maven-3.6.0\README.txt
-Extracted: .\apache-maven-3.6.0\lib\org.eclipse.sisu.plexus.license
-Extracted: .\apache-maven-3.6.0\lib\jansi-native\windows32\jansi.dll
-Extracted: .\apache-maven-3.6.0\bin\mvnDebug.cmd
-Extracted: .\apache-maven-3.6.0\lib\ext\README.txt
-Extracted: .\apache-maven-3.6.0\lib\plexus-interpolation-1.25.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-plugin-api-3.6.0.jar
-Extracted: .\apache-maven-3.6.0\lib\jsr250-api-1.0.jar
-Extracted: .\apache-maven-3.6.0\lib\javax.inject-1.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-model-builder-3.6.0.jar
-Extracted: .\apache-maven-3.6.0\lib\aopalliance-1.0.jar
-Extracted: .\apache-maven-3.6.0\lib\jsr305-3.0.2.jar
-Extracted: .\apache-maven-3.6.0\lib\error_prone_annotations-2.1.3.jar
-Extracted: .\apache-maven-3.6.0\lib\j2objc-annotations-1.1.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-compat-3.6.0.jar
-Extracted: .\apache-maven-3.6.0\LICENSE
-Extracted: .\apache-maven-3.6.0\lib\jansi-native\freebsd32\libjansi.so
-Extracted: .\apache-maven-3.6.0\conf\logging\simplelogger.properties
-Extracted: .\apache-maven-3.6.0\lib\plexus-utils-3.1.0.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-resolver-util-1.3.1.jar
-Extracted: .\apache-maven-3.6.0\lib\guice-4.2.1-no_aop.jar
-Extracted: .\apache-maven-3.6.0\NOTICE
-Extracted: .\apache-maven-3.6.0\lib\slf4j-api.license
-Extracted: .\apache-maven-3.6.0\lib\jansi-native\osx\libjansi.jnilib
-Extracted: .\apache-maven-3.6.0\bin\mvn.cmd
-Extracted: .\apache-maven-3.6.0\lib\jansi-native\README.txt
-Extracted: .\apache-maven-3.6.0\lib\maven-resolver-provider-3.6.0.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-resolver-spi-1.3.1.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-resolver-impl-1.3.1.jar
-Extracted: .\apache-maven-3.6.0\lib\guava-25.1-android.jar
-Extracted: .\apache-maven-3.6.0\lib\animal-sniffer-annotations.license
-Extracted: .\apache-maven-3.6.0\lib\jansi-native\freebsd64\libjansi.so
-Extracted: .\apache-maven-3.6.0\conf\settings.xml
-Extracted: .\apache-maven-3.6.0\lib\maven-builder-support-3.6.0.jar
-Extracted: .\apache-maven-3.6.0\lib\plexus-component-annotations-1.7.1.jar
-Extracted: .\apache-maven-3.6.0\lib\plexus-sec-dispatcher-1.4.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-model-3.6.0.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-resolver-api-1.3.1.jar
-Extracted: .\apache-maven-3.6.0\lib\commons-io-2.5.jar
-Extracted: .\apache-maven-3.6.0\lib\wagon-http-3.2.0-shaded.jar
-Extracted: .\apache-maven-3.6.0\lib\checker-compat-qual.license
-Extracted: .\apache-maven-3.6.0\lib\jansi-native\linux32\libjansi.so
-Extracted: .\apache-maven-3.6.0\bin\mvnDebug
-Extracted: .\apache-maven-3.6.0\boot\plexus-classworlds-2.5.2.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-repository-metadata-3.6.0.jar
-Extracted: .\apache-maven-3.6.0\lib\commons-lang3-3.8.1.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-resolver-connector-basic-1.3.1.jar
-Extracted: .\apache-maven-3.6.0\lib\jsr250-api.license
-Extracted: .\apache-maven-3.6.0\lib\jansi-native\windows64\jansi.dll
-Extracted: .\apache-maven-3.6.0\bin\mvn
-Extracted: .\apache-maven-3.6.0\lib\maven-embedder-3.6.0.jar
-Extracted: .\apache-maven-3.6.0\lib\org.eclipse.sisu.plexus-0.3.3.jar
-Extracted: .\apache-maven-3.6.0\lib\slf4j-api-1.7.25.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-shared-utils-3.2.1.jar
-Extracted: .\apache-maven-3.6.0\lib\checker-compat-qual-2.0.0.jar
-Extracted: .\apache-maven-3.6.0\lib\animal-sniffer-annotations-1.14.jar
-Extracted: .\apache-maven-3.6.0\lib\wagon-provider-api-3.2.0.jar
-Extracted: .\apache-maven-3.6.0\lib\wagon-file-3.2.0.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-resolver-transport-wagon-1.3.1.jar
-Extracted: .\apache-maven-3.6.0\lib\jansi-1.17.1.jar
-Extracted: .\apache-maven-3.6.0\lib\jcl-over-slf4j.license
-Extracted: .\apache-maven-3.6.0\lib\jansi-native\linux64\libjansi.so
-Extracted: .\apache-maven-3.6.0\bin\mvnyjp
-Extracted: .\apache-maven-3.6.0\lib\maven-settings-3.6.0.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-core-3.6.0.jar
-Extracted: .\apache-maven-3.6.0\lib\org.eclipse.sisu.inject.license
-Extracted: .\apache-maven-3.6.0\bin\m2.conf
-Extracted: .\apache-maven-3.6.0\conf\toolchains.xml
-Extracted: .\apache-maven-3.6.0\lib\maven-settings-builder-3.6.0.jar
-Extracted: .\apache-maven-3.6.0\lib\plexus-cipher-1.7.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-artifact-3.6.0.jar
-Extracted: .\apache-maven-3.6.0\lib\cdi-api-1.0.jar
-Extracted: .\apache-maven-3.6.0\lib\org.eclipse.sisu.inject-0.3.3.jar
-Extracted: .\apache-maven-3.6.0\lib\commons-cli-1.4.jar
-Extracted: .\apache-maven-3.6.0\lib\jcl-over-slf4j-1.7.25.jar
-Extracted: .\apache-maven-3.6.0\lib\maven-slf4j-provider-3.6.0.jar
+Starting clone of https://hub.spigotmc.org/stash/scm/spigot/craftbukkit.git to CraftBukkit
+Cloned git repository https://hub.spigotmc.org/stash/scm/spigot/craftbukkit.git to D:\Github\Spigot-BT\CraftBukkit. Current HEAD: 2cdc6b1e4cc28d67eeb6397b5650ecc1e13efdfa
 Attempting to build version: 'latest' use --rev <version> to override
 Found version
 {
@@ -116,12 +35,8 @@ Checked out: 2cdc6b1e4cc28d67eeb6397b5650ecc1e13efdfa
 Pulling updates for D:\Github\Spigot-BT\Spigot\.git
 Successfully fetched updates!
 Checked out: ff89b973e62ca3b6085aeeb474f2568e45ac02be
-Attempting to build Minecraft with details: VersionInfo(minecraftVersion=1.17.1, accessTransforms=bukkit-1.17.1.at, classMappings=bukkit-1.17.1-cl.csrg, memberMappings=bukkit-1.17.1-members.csrg, packageMappings=null, minecraftHash=null, classMapCommand=java -jar BuildData/bin/SpecialSource-2.jar map --only . --only com/mojang/math --only net/minecraft --auto-lvt BASIC --auto-member SYNTHETIC -e BuildData/mappAttempting to build Minecraft with details: VersionInfo(minecraftVersion=1.17.1, accessTransforms=bukkit-1.17.1.at, classMappings=bukkit-1.17.1-cl.csrg, memberMappings=bukkit-1.17.1-members.csrg, packageMappings=null, minecraftHash=null, classMapCommand=java -jar BuildData/bin/SpecialSource-2.jar map --only . --only com/mojang/math --only net/minecraft --auto-lvt BASIC --auto-member SYNTHETIC -e BuildData/mappings/bukkit-1.17.1.exclude -i {0} -m {1} -o {2}, memberMapCommand=java -jar BuildData/bin/SpecialSource-2.jar map --only . --only com/mojang/math --only net/minecraft --auto-member TOKENS -i {0} -m {1} -o {2}, finalMapCommand=java -jar BuildData/bin/SpecialSource.jar --only . --only com/mojang/math --only net/minecraft -i {0} --access-transformer {1} -m {2} -o {3}, decompileCommand=java -jar BuildData/bin/fernflower.jar -dgs=1 -hdc=0 -asc=1 -udv=0 -rsy=1 -aoa=1 {0} {1}, serverUrl=https://launcher.mojang.com/v1/objects/a16d67e5807f57fc4e550299cf20226194497dc2/server.jar, mappingsUrl=https://launcher.mojang.com/v1/objects/f6cae1c5c1255f68ba4834b16a0da6a09621fe13/server.txt, spigotVersion=1.17.1-R0.1-SNAPSHOT, toolsVersion=128)
-Starting download of https://launcher.mojang.com/v1/objects/a16d67e5807f57fc4e550299cf20226194497dc2/server.jar
-Downloaded file: work\minecraft_server.1.17.1.jar with hash: a16d67e5807f57fc4e550299cf20226194497dc2
-Final mapped jar: work\mapped.00fabbe5.jar does not exist, creating (please wait)!
-Starting download of https://launcher.mojang.com/v1/objects/f6cae1c5c1255f68ba4834b16a0da6a09621fe13/server.txt
-Downloaded file: work\minecraft_server.1.17.1.txt with hash: f6cae1c5c1255f68ba4834b16a0da6a09621fe13
+Attempting to build Minecraft with details: VersionInfo(minecraftVersion=1.17.1, accessTransforms=bukkit-1.17.1.at, classMappings=bukkit-1.17.1-cl.csrg, memberMappings=bukkit-1.17.1-members.csrg, packageMappings=null, minecraftHash=null, classMapCommand=java -jar BuildData/bin/SpecialSource-2.jar map --only . --only com/mojang/math --only net/minecraft --auto-lvt BASIC --auto-member SYNTHETIC -e BuildData/mappings/bukkit-1.17.1.exclude -i {0} -m {1} -o {2}, memberMapCommand=java -jar BuildData/bin/SpecialSource-2.jar map --only . --only com/mojang/math --only net/minecraft --auto-member TOKENS -i {0} -m {1} -o {2}, finalMapCommand=java -jar BuildData/bin/SpecialSource.jar --only . --only com/mojang/math --only net/minecraft -i {0} --access-transformer {1} -m {2} -o {3}, decompileCommand=java -jar BuildData/bin/fernflower.jar -dgs=1 -hdc=0 -asc=1 -udv=0 -rsy=1 -aoa=1 {0} {1}, serverUrl=https://launcher.mojang.com/v1/objects/a16d67e5807f57fc4e550299cf20226194497dc2/server.jar, mappingsUrl=https://launcher.mojang.com/v1/objects/f6cae1c5c1255f68ba4834b16a0da6a09621fe13/server.txt, spigotVersion=1.17.1-R0.1-SNAPSHOT, toolsVersion=128)
+Found good Minecraft hash (a16d67e5807f57fc4e550299cf20226194497dc2)
 Picked up _JAVA_OPTIONS: -Djdk.net.URLClassPath.disableClassPathURLCheck=true
 [INFO] Scanning for projects...
 [INFO] 
@@ -130,73 +45,24 @@ Picked up _JAVA_OPTIONS: -Djdk.net.URLClassPath.disableClassPathURLCheck=true
 [INFO] --------------------------------[ pom ]---------------------------------
 [INFO] 
 [INFO] --- maven-install-plugin:2.4:install-file (default-cli) @ standalone-pom ---
-[INFO] Installing D:\Github\Spigot-BT\work\bukkit-00fabbe5-fields.csrg to C:\Users\trevo\.m2\repository\org\spigotmc\minecraft-server\1.17.1-R0.1-SNAPSHOT\minecraft-server-1.17.1-R0.1-SNAPSHOT-maps-spigot-fields.csrg
+[INFO] Installing D:\Github\Spigot-BT\work\mapped.00fabbe5.jar to C:\Users\trevo\.m2\repository\org\spigotmc\minecraft-server\1.17.1-R0.1-SNAPSHOT\minecraft-server-1.17.1-R0.1-SNAPSHOT.jar
+[INFO] Installing C:\Users\trevo\AppData\Local\Temp\mvninstall1929854780193203769.pom to C:\Users\trevo\.m2\repository\org\spigotmc\minecraft-server\1.17.1-R0.1-SNAPSHOT\minecraft-server-1.17.1-R0.1-SNAPSHOT.pom
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  0.334 s
-[INFO] Finished at: 2021-08-08T20:08:48-04:00
+[INFO] Total time:  0.376 s
+[INFO] Finished at: 2021-08-08T20:40:20-04:00
 [INFO] ------------------------------------------------------------------------
-Picked up _JAVA_OPTIONS: -Djdk.net.URLClassPath.disableClassPathURLCheck=true
-[INFO] Scanning for projects...
-[INFO] 
-[INFO] ------------------< org.apache.maven:standalone-pom >-------------------
-[INFO] Building Maven Stub Project (No POM) 1
-[INFO] --------------------------------[ pom ]---------------------------------
-[INFO] 
-[INFO] --- maven-install-plugin:2.4:install-file (default-cli) @ standalone-pom ---
-[INFO] Installing D:\Github\Spigot-BT\work\bukkit-00fabbe5-combined.csrg to C:\Users\trevo\.m2\repository\org\spigotmc\minecraft-server\1.17.1-R0.1-SNAPSHOT\minecraft-server-1.17.1-R0.1-SNAPSHOT-maps-spigot.csrg
-[INFO] ------------------------------------------------------------------------
-[INFO] BUILD SUCCESS
-[INFO] ------------------------------------------------------------------------
-[INFO] Total time:  0.327 s
-[INFO] Finished at: 2021-08-08T20:08:49-04:00
-[INFO] ------------------------------------------------------------------------
-Picked up _JAVA_OPTIONS: -Djdk.net.URLClassPath.disableClassPathURLCheck=true
-[INFO] Scanning for projects...
-[INFO] 
-[INFO] ------------------< org.apache.maven:standalone-pom >-------------------
-[INFO] Building Maven Stub Project (No POM) 1
-[INFO] --------------------------------[ pom ]---------------------------------
-[INFO] 
-[INFO] --- maven-install-plugin:2.4:install-file (default-cli) @ standalone-pom ---
-[INFO] Installing D:\Github\Spigot-BT\work\minecraft_server.1.17.1.txt to C:\Users\trevo\.m2\repository\org\spigotmc\minecraft-server\1.17.1-R0.1-SNAPSHOT\minecraft-server-1.17.1-R0.1-SNAPSHOT-maps-mojang.txt
-[INFO] ------------------------------------------------------------------------
-[INFO] BUILD SUCCESS
-[INFO] ------------------------------------------------------------------------
-[INFO] Total time:  0.325 s
-[INFO] Finished at: 2021-08-08T20:08:50-04:00
-[INFO] ------------------------------------------------------------------------
-Picked up _JAVA_OPTIONS: -Djdk.net.URLClassPath.disableClassPathURLCheck=true
-
-Picked up _JAVA_OPTIONS: -Djdk.net.URLClassPath.disableClassPathURLCheck=true
-
-Picked up _JAVA_OPTIONS: -Djdk.net.URLClassPath.disableClassPathURLCheck=true
-Loading mappings
-Loading mappings...  0%
-Loading mappings... 10%
-Loading mappings... 20%
-Loading mappings... 30%
-Loading mappings... 40%
-Loading mappings... 50%
-Loading mappings... 60%
-Loading mappings... 70%
-Loading mappings... 80%
-Loading mappings... 90%
-Loading mappings... 100%
-0 packages, 0 classes, 18772 fields, 0 methods
-Remapping final jar
-Remapping jar...  0%
-Remapping jar... 10%
-Remapping jar... 20%
-Remapping jar... 30%
-Remapping jar... 40%
-Remapping jar... 50%
-Remapping jar... 60%
-Remapping jar... 70%
-Remapping jar... 80%
-Exception in thread "main" java.lang.RuntimeException: Error running command, return status !=0: [C:\Windows\system32\cmd.exe, /D, /C, C:\Program Files\Java\jdk-16.0.2/bin/java, -jar, BuildData/bin/SpecialSource.jar, --only, ., --only, com/mojang/math, --only, net/minecraft, -i, work\mapped.00fabbe5.jar-m, --access-transformer, BuildData/mappings/bukkit-1.17.1.at, -m, work\bukkit-00fabbe5-fields.csrg, -o, work\mapped.00fabbe5.jar]
-	at org.spigotmc.builder.Builder.runProcess0(Builder.java:919)
-	at org.spigotmc.builder.Builder.runProcess(Builder.java:850)
-	at org.spigotmc.builder.Builder.main(Builder.java:490)
+Exception in thread "main" java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.zerror(ZipFile.java:1608)
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1460)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1469)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1281)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1243)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:707)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:241)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:171)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:185)
+	at org.spigotmc.builder.Builder.unzip(Builder.java:958)
+	at org.spigotmc.builder.Builder.main(Builder.java:503)
 	at org.spigotmc.builder.Bootstrap.main(Bootstrap.java:27)
