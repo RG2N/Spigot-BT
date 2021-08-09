@@ -3,19 +3,19 @@
  */
 package org.bukkit.craftbukkit.block.impl;
 
-public final class CraftShulkerBox extends org.bukkit.craftbukkit.block.data.CraftBlockData implements org.bukkit.block.data.Directional {
+public final class CraftTorchWall extends org.bukkit.craftbukkit.block.data.CraftBlockData implements org.bukkit.block.data.Directional {
 
-    public CraftShulkerBox() {
+    public CraftTorchWall() {
         super();
     }
 
-    public CraftShulkerBox(net.minecraft.world.level.block.state.IBlockData state) {
+    public CraftTorchWall(net.minecraft.world.level.block.state.IBlockData state) {
         super(state);
     }
 
     // org.bukkit.craftbukkit.block.data.CraftDirectional
 
-    private static final net.minecraft.world.level.block.state.properties.BlockStateEnum<?> FACING = getEnum(net.minecraft.world.level.block.BlockShulkerBox.class, "facing");
+    private static final net.minecraft.world.level.block.state.properties.BlockStateEnum<?> FACING = getEnum(net.minecraft.world.level.block.BlockTorchWall.class, "facing");
 
     @Override
     public org.bukkit.block.BlockFace getFacing() {

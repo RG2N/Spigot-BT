@@ -1,29 +1,62 @@
-package org.bukkit.craftbukkit.block;
+/**
+ * Automatically generated file, changes will be lost.
+ */
+package org.bukkit.craftbukkit.block.impl;
 
-import com.google.common.base.Preconditions;
-import net.minecraft.world.level.block.entity.SculkSensorBlockEntity;
-import org.bukkit.Material;
-import org.bukkit.block.Block;
-import org.bukkit.block.SculkSensor;
+public final class CraftSculkSensor extends org.bukkit.craftbukkit.block.data.CraftBlockData implements org.bukkit.block.data.type.SculkSensor, org.bukkit.block.data.AnaloguePowerable, org.bukkit.block.data.Waterlogged {
 
-public class CraftSculkSensor extends CraftBlockEntityState<SculkSensorBlockEntity> implements SculkSensor {
-
-    public CraftSculkSensor(final Block block) {
-        super(block, SculkSensorBlockEntity.class);
+    public CraftSculkSensor() {
+        super();
     }
 
-    public CraftSculkSensor(final Material material, final SculkSensorBlockEntity te) {
-        super(material, te);
+    public CraftSculkSensor(net.minecraft.world.level.block.state.IBlockData state) {
+        super(state);
+    }
+
+    // org.bukkit.craftbukkit.block.data.type.CraftSculkSensor
+
+    private static final net.minecraft.world.level.block.state.properties.BlockStateEnum<?> PHASE = getEnum(net.minecraft.world.level.block.SculkSensorBlock.class, "sculk_sensor_phase");
+
+    @Override
+    public org.bukkit.block.data.type.SculkSensor.Phase getPhase() {
+        return get(PHASE, org.bukkit.block.data.type.SculkSensor.Phase.class);
     }
 
     @Override
-    public int getLastVibrationFrequency() {
-        return getSnapshot().getLastVibrationFrequency();
+    public void setPhase(org.bukkit.block.data.type.SculkSensor.Phase phase) {
+        set(PHASE, phase);
+    }
+
+    // org.bukkit.craftbukkit.block.data.CraftAnaloguePowerable
+
+    private static final net.minecraft.world.level.block.state.properties.BlockStateInteger POWER = getInteger(net.minecraft.world.level.block.SculkSensorBlock.class, "power");
+
+    @Override
+    public int getPower() {
+        return get(POWER);
     }
 
     @Override
-    public void setLastVibrationFrequency(int lastVibrationFrequency) {
-        Preconditions.checkArgument(0 <= lastVibrationFrequency && lastVibrationFrequency <= 15, "Vibration frequency must be between 0-15");
-        getSnapshot().lastVibrationFrequency = lastVibrationFrequency;
+    public void setPower(int power) {
+        set(POWER, power);
+    }
+
+    @Override
+    public int getMaximumPower() {
+        return getMax(POWER);
+    }
+
+    // org.bukkit.craftbukkit.block.data.CraftWaterlogged
+
+    private static final net.minecraft.world.level.block.state.properties.BlockStateBoolean WATERLOGGED = getBoolean(net.minecraft.world.level.block.SculkSensorBlock.class, "waterlogged");
+
+    @Override
+    public boolean isWaterlogged() {
+        return get(WATERLOGGED);
+    }
+
+    @Override
+    public void setWaterlogged(boolean waterlogged) {
+        set(WATERLOGGED, waterlogged);
     }
 }
